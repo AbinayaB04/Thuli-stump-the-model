@@ -1,0 +1,5 @@
+filename,candidate_rank,listing_id,category,similarity,product_title,selection_status,reason
+test1.jpeg,,,,,,NO_CLEAR_MATCH,"Reference is a small rose gold hoop/clicker. Top candidates are plain jump rings, different shaped septum rings, or rings with stones. No exact visual match."
+test2.jpeg,,,,,,NO_CLEAR_MATCH,Reference is a bright blue square crystal earring. Top candidates are different shapes (oval/round) or colors (light blue/green/red).
+test4.jpeg,7,1750297922,earring,0.7666,Handmade Indian Jhumki Hoop Earrings: Ethnic Chand...,AMBIGUOUS,Reference is an oxidized Jhumki with a bird/peacock stud top. Candidate 1750297922 is an oxidized Jhumki but with a hoop top. The bells are similar but the earrings appear structurally different.
+test5.jpeg,,,,,,NO_CLEAR_MATCH,"Reference is a thin textured/beaded gold bangle. Top candidates are flexible chains, thick smooth bangles, or small rings."

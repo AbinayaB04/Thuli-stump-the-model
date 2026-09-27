@@ -1,0 +1,8 @@
+query_image,provisional_listing_id,provisional_category,baseline_rank,baseline_similarity,multicrop_rank,multicrop_similarity,agreement,label_status
+test1.jpeg,4352924968,bracelet,2,0.8748,1,0.8911,No,PSEUDO-LABEL (Model Generated)
+test2.jpeg,256613157,earring,1,0.7902,1,0.8306,Yes,PSEUDO-LABEL (Model Generated)
+test3.jpeg,4510426304,bracelet,1,0.8416,1,0.8416,Yes,PSEUDO-LABEL (Model Generated)
+test4.jpeg,1750297922,earring,5,0.7703,1,0.8587,No,PSEUDO-LABEL (Model Generated)
+test5.jpeg,753628604,necklace,17,0.7849,1,0.8789,No,PSEUDO-LABEL (Model Generated)
+test6.jpeg,288698857,earring,15,0.7887,1,0.8487,No,PSEUDO-LABEL (Model Generated)
+test8.jpeg,1750297922,earring,1,0.7907,1,0.8466,Yes,PSEUDO-LABEL (Model Generated)

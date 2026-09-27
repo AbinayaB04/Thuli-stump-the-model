@@ -1,0 +1,89 @@
+# =========================
+# Secrets / Environment
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary catalogue data
+# =========================
+data/catalogue/etsy/cleaned_images/
+data/catalogue/etsy_backup/
+data/catalogue/etsy/expansion_raw/
+data/catalogue/etsy/expansion_clean/
+# =========================
+# Superseded index files
+# =========================
+data/index/etsy_clip_3977.index
+data/index/etsy_index_metadata_3977.csv
+data/index/baseline_report.md
+
+# =========================
+# Superseded evaluation files
+# =========================
+results/query_review_old/
+results/baseline/evaluation_old.csv
+
+# =========================
+# Generated synthetic images
+# =========================
+results/automated_stumper/images/
+
+data/catalogue/etsy/cleaned_images_old_threshold_003/
+data/catalogue/etsy/catalogue_clean_backup.csv
+data/catalogue/etsy/borderline_review.csv
+
+data/catalogue/etsy/cleaning_report.csv
+data/catalogue/etsy/contact_sheet_*.jpg
+# Intermediate threshold analysis
+/data/catalogue/etsy/margin_0.000_0.005.jpg
+/data/catalogue/etsy/margin_0.005_0.010.jpg
+/data/catalogue/etsy/margin_0.010_0.015.jpg
+/data/catalogue/etsy/margin_0.015_0.020.jpg
+/data/catalogue/etsy/threshold_analysis.csv
+/data/catalogue/etsy/threshold_analysis.md
+
+# Superseded local datasets
+/data/catalogue/etsy_old/
+/data/catalogue/wikimedia/
+/data/embeddings/
+/src/data/
+/data/queries/evaluation.csv
+/data/queries/query_mapping_template.csv
+/results/query_review_new/manual_verification.csv
+
+# Local catalogue images
+/data/catalogue/etsy/images/

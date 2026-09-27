@@ -1,0 +1,5 @@
+query_image,top1_listing_id,top1_similarity,likely_correct_rank,correct_candidate_in_top20,failure_type,notes
+test2.jpeg,256613157,0.787314,not verified,no,A,Correct dangle earring not retrieved in Top-20; retrieved items are dissimilar blue gemstone earrings.
+test3.jpeg,4510426304,0.836259,2,yes,B,Correct item retrieved at rank 2; Top-1 is a dissimilar bracelet charm (likely due to background/lighting).
+test4.jpeg,4582187140,0.794536,6,yes,B,Correct item retrieved at rank 6; Top-1 is a pewter bee earring. Background/angle noise dominates the raw CLIP vector.
+test8.jpeg,971657694,0.793448,2,yes,B,Correct item retrieved at rank 2; Top-1 is a dissimilar huggie earring.

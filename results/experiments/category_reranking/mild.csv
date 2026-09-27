@@ -1,0 +1,141 @@
+query_image,rank,listing_id,title,category,similarity,rerank_score
+test1.jpeg,1,1737979805,8 Pixel Side Firing Accent &quot;Ring&quot;,ring,0.872657060623169,0.872657060623169
+test1.jpeg,2,4374560212,1 Piece Beer  Quartz Carved Polished Single Gemstone Ring| Hand Carved Ring Size,ring,0.852308988571167,0.852308988571167
+test1.jpeg,3,4348781927,Organic Diamond Wave Ring by Caitlyn Minimalist • Curved Marquise Diamond Stacking Ring • Unique Arc Wedding Band • Anniversary Gift • RR191,ring,0.8503879308700562,0.8503879308700562
+test1.jpeg,4,4486784495,"Smoky Quartz Ring 925 Sterling Silver, Oval Gemstone Ring, Brown Quartz Statement Ring, Handmade Minimalist Jewelry, Gift for Her",ring,0.8405357003211975,0.8405357003211975
+test1.jpeg,5,769186820,"Hammered 14K Gold Filled Toe Ring, Adjustable Midi Ring",ring,0.8339135050773621,0.8339135050773621
+test1.jpeg,6,745678143,"Personalized Gold Ring, Engraved Ring, Wide Gold Band, Thick Gold Filled Ring, Affordable Wedding Band, Simple Gold Ring, Initial Ring",ring,0.829127311706543,0.829127311706543
+test1.jpeg,7,4320646886,D-Knot-Handmade 14K Gold Filled Sailor Knot Ring,ring,0.8254679441452026,0.8254679441452026
+test1.jpeg,8,4486912986,"5 CT Radiant Cut Moissanite Ring, Radiant Engagement Ring, Bridal Pave & Hidden Halo Wedding Ring, Classic Prongs Ring, Bridal Ring",ring,0.8247684240341187,0.8247684240341187
+test1.jpeg,9,4352924968,"2pcs 18K Gold Plated Oval Clasp,Oval Screw Clasp,Necklace Bracelet Component Clasp ,for DIY Jewelry",bracelet,0.8718615770339966,0.8218615770339965
+test1.jpeg,10,4341870015,Old Miner&#39;s Cut Moissanite Signet Ring: Sterling Silver Bezel Set,ring,0.8200947046279907,0.8200947046279907
+test1.jpeg,11,4522721891,Gothic Oval White Moissanite Moth Engagement Ring Nature Inspired Gold Ring Sculpted Promise Ring Vintage Bridal Ring Unique Gift For Her,ring,0.8181557655334473,0.8181557655334473
+test1.jpeg,12,1546363765,"Gold Necklace Clasp,18K Gold Filled Lobster Clasp Gold Lobster Claw for DIY Jewelry Finding Necklace Bracelet",bracelet,0.8680287599563599,0.8180287599563598
+test1.jpeg,13,1041624907,"18k Gold Plated Chain Ring, Sterling Silver, Adjustable",ring,0.8163288831710815,0.8163288831710815
+test1.jpeg,14,4445713694,Fresh Water Pearl Vine Ring – Deep Elegance & Bold Sophistication,ring,0.8161920309066772,0.8161920309066772
+test1.jpeg,15,1718763426,An Exquisite 18K White Gold Solitaire VS Old Mine Cut Diamond Art Deco Antique Ring Size 8.25,ring,0.8154513835906982,0.8154513835906982
+test1.jpeg,16,1754081797,"Diamond Stacking Ring, Dainty Ring, Gemstone Ring, Stacking Ring, Minimalist Ring, Sterling Silver Ring, Gift for Her, CZ Ring, Simple Ring",ring,0.814246654510498,0.814246654510498
+test1.jpeg,17,4336278483,"Bold Polished Circle Connector in 18K Gold Filled, Perfect for Customizing Charm Bracelets or Bags 14.8mm",bracelet,0.8556629419326782,0.8056629419326782
+test1.jpeg,18,1532183488,"18K Gold Filled Round Carabiner Clasp,Carabiner Lock Connector,Spring Push Gate for DIY Jewelry Finding Necklace Bracelet",bracelet,0.8354396820068359,0.7854396820068359
+test1.jpeg,19,4402552851,925 Silver Ear Cuff • Non Piercing Earring • Stackable Ear Cuffs • Minimal Unisex Cartilage Jewelry,earring,0.8239783644676208,0.7739783644676208
+test1.jpeg,20,4582190953,vintage gold-tone bangle bracelet featuring the stamped © MONET maker&#39;s mark on the interior.,bracelet,0.8216625452041626,0.7716625452041626
+test2.jpeg,1,256613157,"Blue Sapphire Earrings, September Birthstones, Crown Set Sapphire, Sterling Silver Sapphires, Oval Sapphire Earrings, Dark Blue Sapphire Set",earring,0.7873136401176453,0.7873136401176453
+test2.jpeg,2,1885800189,"Champagne and Navy Blue Drop Earrings, Denim Blue Crystal Earrings, Gold and Navy Bridal Earrings, Champagne Crystal Dangle Earrings",earring,0.7828203439712524,0.7828203439712524
+test2.jpeg,3,4577967890,Vintage 10K White Gold Blue Aquamarine & CZ Drop Dangle Earrings,earring,0.779320240020752,0.779320240020752
+test2.jpeg,4,1015877397,Sage Green and Purple Czech Crystal Earrings,earring,0.7772508263587952,0.7772508263587952
+test2.jpeg,5,4577954309,Vintage 10K White Gold Blue Topaz Flower Earrings,earring,0.7664862871170044,0.7664862871170044
+test2.jpeg,6,969381825,Garnet Red Crystal Drop Earrings Classic Sparkling Indian Ruby Solitaire Swarovski Dark Oxidized Gunmetal Gold Matt Silver January July,earring,0.7639451026916504,0.7639451026916504
+test2.jpeg,7,1860278397,Vintage Tricia&#39;s Gold Vermeil Finish Sterling Artisan Clip On Earrings,earring,0.7616084814071655,0.7616084814071655
+test2.jpeg,8,4422617859,"Vintage Inspired Stone Sunburst Earrings, Gold Earrings, Stone Earrings, Cottagecore Art Deco Boho Minimalist Jewelry, Gift for Her",earring,0.7597231864929199,0.7597231864929199
+test2.jpeg,9,1719035860,Regatta and Cornflower Blue ombré clay earrings with pearl detail. Moroccan inspired design. Silver hardware. Nickel-free.,earring,0.7591093182563782,0.7591093182563782
+test2.jpeg,10,1810769505,"10K Yellow Gold Aquamarine Stud Earrings, March Birthstone 6x4mm",earring,0.7574756145477295,0.7574756145477295
+test2.jpeg,11,4445719002,"Dainty Hamsa Dangle Earrings, Gold Filled or Rose Gold Filled CZ Studs, Jewish Protection Jewelry, Bat Mitzvah Gift",earring,0.7567963600158691,0.7567963600158691
+test2.jpeg,12,1074779882,"Festive Mid Century Orange Dangles, Vintage Statement Earrings, unworn dead stock on original card",earring,0.7566807866096497,0.7566807866096497
+test2.jpeg,13,616571477,Sapphire Earrings Navy Blue Necklace Bracelet: Bridal Bridesmaid sapphire birthstone jewelry gift,earring,0.7542160749435425,0.7542160749435425
+test2.jpeg,14,1185707075,"Juliana Blue Keystone Bracelet, Brooch and Earrings Aurora Borealis Accent",bracelet,0.7731350660324097,0.7231350660324096
+test2.jpeg,15,767535113,Vintage Art Deco Style Silver Tone Blue Glass Stone Pendant Dangle Line LInk Necklace Jewelry   K#17,necklace,0.7700230479240417,0.7200230479240417
+test2.jpeg,16,240739186,Petite Blue Agate Pendant- Tumbled Blue Agate Pendant with Silver Plated Bail (S81B8-05),pendant,0.760064423084259,0.710064423084259
+test2.jpeg,17,1719052892,Lapis Lazuli Austrian crystal pendant w/paper clip necklace (20in) in stainless steel,necklace,0.7600374221801758,0.7100374221801757
+test2.jpeg,18,1580521169,New  Set Of 2 Charms Cinderella Signature Murano / Disney Charms for Pandora Moments bracelet / s925 Sterling Silver / Velvet Gift Pouch,bracelet,0.7526578307151794,0.7026578307151794
+test2.jpeg,19,807207376,Solid 14k Gold Swiss Blue Topaz Emerald Cut Ring,ring,0.7523356080055237,0.7023356080055236
+test2.jpeg,20,4573296390,"Handcrafted Sterling Silver Leaf Cluster Necklace, London Blue Topaz Gemstone Choker, Gift For Women",necklace,0.7512362003326416,0.7012362003326416
+test3.jpeg,1,466311258,"Chunky Charm Bracelet,Vintage Chain,Chocolate Brass,Charm Bracelet,Chunky Bracelet,Bracelet Set, Earrings Included,Mockidesigns,Gift Wrapped",earring,0.8228521347045898,0.8228521347045898
+test3.jpeg,2,4577954309,Vintage 10K White Gold Blue Topaz Flower Earrings,earring,0.8188826441764832,0.8188826441764832
+test3.jpeg,3,4510426304,Vintage CAMEO + Butterfly BRACELET Ornate Filigree 800 Gilt SILVER Hand-Carved Shell,bracelet,0.8362590670585632,0.7862590670585632
+test3.jpeg,4,1782692814,14k Gold 5.60ct Diamond Tennis Bracelet Fabulous,bracelet,0.8337547779083252,0.7837547779083252
+test3.jpeg,5,789571660,"Heart of the Matter: Amethyst, Quartz, Kunzite, Labradorite, and Moonstone Pendant",pendant,0.831802248954773,0.7818022489547729
+test3.jpeg,6,1048787878,Labradorite Sterling Silver Bracelet: Seven Stone Bohemian Jewelry,bracelet,0.8311017751693726,0.7811017751693725
+test3.jpeg,7,846212192,"Rhinestone Snake Necklace, Swarovski Crystal Serpent, Handmade Chain",necklace,0.8296266794204712,0.7796266794204711
+test3.jpeg,8,234288585,Natural Dominican Larimar Solid 925 Sterling Silver Butterfly Pendant For Necklace. Free 18&#39;&#39; sterling silver chain,pendant,0.8294178247451782,0.7794178247451782
+test3.jpeg,9,869651767,"Spiral Coin Pendant, Tribal Ball Dot Charms, Ethnic Spiral Disc Pendant, Matte Antique Silver Plated, 1pc",pendant,0.8228944540023804,0.7728944540023803
+test3.jpeg,10,1384875631,Rare to find designer Floral Ring Jewelry Silver Unique Jewelry,ring,0.8228425979614258,0.7728425979614257
+test3.jpeg,11,4582154824,"10K White Gold peridot solitaire Vintage Ring Size 6.5, 2.1g",ring,0.822364091873169,0.7723640918731689
+test3.jpeg,12,1765326000,Bracelet with hematite Navajo style pearls 2 adjustable sizes,bracelet,0.8204993009567261,0.770499300956726
+test3.jpeg,13,601247228,"Sterling Silver Sun, Moon & Stars Ring - Oxidized Celestial Band",ring,0.8191906213760376,0.7691906213760376
+test3.jpeg,14,1861559229,Filigree Heart Astral Necklace,necklace,0.8141363859176636,0.7641363859176635
+test3.jpeg,15,475502886,Tourmaline Dream Pendant,pendant,0.8135656118392944,0.7635656118392944
+test3.jpeg,16,1393227979,Faceted moonstone in 14k gold pendant,pendant,0.8132673501968384,0.7632673501968383
+test3.jpeg,17,1719047722,Vintage Van Dell Gold Filled GF On Sterling W/ Red Glass  Flower Link Panel Bracelet 6” Vermeil,bracelet,0.8125860095024109,0.7625860095024108
+test3.jpeg,18,815693647,Hemp Macrame Necklace With Marijuana Pendant,pendant,0.8113175630569458,0.7613175630569458
+test3.jpeg,19,4580709895,The Moon Belongs to Lovers Ring,ring,0.8104223608970642,0.7604223608970642
+test3.jpeg,20,539347227,One Piece 9mm 11mm 15mm .925 Sterling Silver and Gold Lobster Clasp Finding With Jump Ring #10335,ring,0.810157060623169,0.7601570606231689
+test4.jpeg,1,4582187140,"Rusty rustic pewter bee earrings n34- artisan lamp work in honey color, pagan jewelry, bohemian earrings, primitive jewelry, honey bee",earring,0.7945359945297241,0.7945359945297241
+test4.jpeg,2,4418392447,Stick Hammered Crystal Bezel Rectangle Pendant Charm earring components charm Preciosa Antique gold 2 pcs (N2),earring,0.7690739035606384,0.7690739035606384
+test4.jpeg,3,1750297922,Handmade Indian Jhumki Hoop Earrings: Ethnic Chandbali Jewelry,earring,0.7666333913803101,0.7666333913803101
+test4.jpeg,4,1718919882,DON-LIN Vintage 1990&#39;s Beige And Gold Modern Triangular Statement Clip Earrings,earring,0.7644147872924805,0.7644147872924805
+test4.jpeg,5,4445706015,"Garnet Necklace & Earrings Set – Hand Wrapped Gold Wire Jewelry, Minimal Gemstone Chip Matching Set",earring,0.7640627026557922,0.7640627026557922
+test4.jpeg,6,4582174394,Vintage Signed Coro Blue Rhinestone Clip-On Earrings Gold Tone,earring,0.7531246542930603,0.7531246542930603
+test4.jpeg,7,4488441375,khamaseeya framed pendant,pendant,0.7772594690322876,0.7272594690322876
+test4.jpeg,8,1869756705,"14k Solid Gold Bismark Chain Bracelet, Stacked Curb Link,Bismarck Bracelet",bracelet,0.7739054560661316,0.7239054560661315
+test4.jpeg,9,4582204395,Gold Steampunk Polymer Clay Statement Necklace,necklace,0.7679487466812134,0.7179487466812133
+test4.jpeg,10,1732931835,1992 Signed  Modernist Brass Bangle Bracelet,bracelet,0.7629759311676025,0.7129759311676025
+test4.jpeg,11,1803827927,NEW… Goldplated (man on horse) coin pendant,pendant,0.7608346343040466,0.7108346343040466
+test4.jpeg,12,1737979805,8 Pixel Side Firing Accent &quot;Ring&quot;,ring,0.7607313394546509,0.7107313394546508
+test4.jpeg,13,4404802338,Handmade 925 Sterling Silver Cuff | Engraved Floral Boho Bracelet,bracelet,0.7598484754562378,0.7098484754562377
+test4.jpeg,14,4370396807,Red & Gold Stained Glass Sea Glass Pendant Necklace,necklace,0.7594960331916809,0.7094960331916809
+test4.jpeg,15,1861559229,Filigree Heart Astral Necklace,necklace,0.7589961290359497,0.7089961290359497
+test4.jpeg,16,1782727146,14K Yellow Gold Love Knot Bangle 7 inch for Women Ladies in real 14kt Gold,bracelet,0.7579383850097656,0.7079383850097656
+test4.jpeg,17,4336516522,"Gold Cat Pendant, Dainty Kitten Charm for Bracelet, Minimalist DIY Jewelry",bracelet,0.7575745582580566,0.7075745582580566
+test4.jpeg,18,1719047722,Vintage Van Dell Gold Filled GF On Sterling W/ Red Glass  Flower Link Panel Bracelet 6” Vermeil,bracelet,0.7572475075721741,0.707247507572174
+test4.jpeg,19,4582193922,Size 7 Sequin Nordstrom Yellow Gold Tone Enamel Hinged Open Bangle,bracelet,0.7545620203018188,0.7045620203018188
+test4.jpeg,20,789538994,Coming Up Roses: Kyanite and Peach Topaz Pendant,pendant,0.7545419931411743,0.7045419931411743
+test5.jpeg,1,4582175884,Vintage 10k Gold Curb Link Bracelet 7’’ with Sister Twin Hook Clasp,bracelet,0.8271822929382324,0.8271822929382324
+test5.jpeg,2,938207815,Vintage Marquise Decorative Gold Brass Chain Link Bracelet,bracelet,0.8229648470878601,0.8229648470878601
+test5.jpeg,3,1737979805,8 Pixel Side Firing Accent &quot;Ring&quot;,ring,0.8541792631149292,0.8041792631149292
+test5.jpeg,4,4582190953,vintage gold-tone bangle bracelet featuring the stamped © MONET maker&#39;s mark on the interior.,bracelet,0.7928896546363831,0.7928896546363831
+test5.jpeg,5,1659410989,Pearl And Gold Bracelet,bracelet,0.791023313999176,0.791023313999176
+test5.jpeg,6,1869756705,"14k Solid Gold Bismark Chain Bracelet, Stacked Curb Link,Bismarck Bracelet",bracelet,0.7905607223510742,0.7905607223510742
+test5.jpeg,7,1532183488,"18K Gold Filled Round Carabiner Clasp,Carabiner Lock Connector,Spring Push Gate for DIY Jewelry Finding Necklace Bracelet",bracelet,0.7817457318305969,0.7817457318305969
+test5.jpeg,8,4308366229,"Dalilah Bracelet ||| MTO Dainty, Stainless Steel, European 4 in 1 Weave Cuff",bracelet,0.7797511219978333,0.7797511219978333
+test5.jpeg,9,1510796672,Braided Brass Torque Choker: Viking Tribal Necklace,necklace,0.8098126649856567,0.7598126649856567
+test5.jpeg,10,4374560212,1 Piece Beer  Quartz Carved Polished Single Gemstone Ring| Hand Carved Ring Size,ring,0.7932605743408203,0.7432605743408203
+test5.jpeg,11,181919377,"14kt Rose Gold Filled Necklace Extender w/ Spring Ring Clasp - 1&quot;, 2&quot;, 3&quot; & 4&quot; - Your Choice of Chain Extender - Custom Extension Chain",ring,0.7929952144622803,0.7429952144622802
+test5.jpeg,12,4308360424,14k Pair of Threader Earring Wire Components with Open Ring to Add Charm,earring,0.7877951860427856,0.7377951860427856
+test5.jpeg,13,4471740078,"Handmade Pure Silver Chain Necklace, Antique Oxidized Finish, Unisex Vintage Jewelry",necklace,0.7867681980133057,0.7367681980133056
+test5.jpeg,14,767542185,Vintage Art Deco Style Yellow Gold Tone Faux Pearl Round Bib Style Round Necklace Jewelry K#14,necklace,0.7863354682922363,0.7363354682922363
+test5.jpeg,15,767435713,Vintage Art Deco Style Yellow Gold Tone Chain Design Dangle Necklace Jewelry   K#28,necklace,0.7857062816619873,0.7357062816619873
+test5.jpeg,16,4418392447,Stick Hammered Crystal Bezel Rectangle Pendant Charm earring components charm Preciosa Antique gold 2 pcs (N2),earring,0.7826881408691406,0.7326881408691406
+test5.jpeg,17,1068229172,"A Set of 2 Charm Necklaces Green, Pink, Multicolor",necklace,0.781501054763794,0.7315010547637939
+test5.jpeg,18,753628604,Vintage Art Deco Style Yellow Gold Tone Bib Style Twisted Design Necklace Jewelry   K#26,necklace,0.7793172001838684,0.7293172001838684
+test5.jpeg,19,4462453631,Beautiful Turquoise Necklace,necklace,0.7781639099121094,0.7281639099121093
+test5.jpeg,20,4582168918,Vintage Gold Tone Engraved Initials Ring Sz 8 Free Shipping,ring,0.7778795957565308,0.7278795957565307
+test6.jpeg,1,4582190953,vintage gold-tone bangle bracelet featuring the stamped © MONET maker&#39;s mark on the interior.,bracelet,0.8176232576370239,0.8176232576370239
+test6.jpeg,2,1532183488,"18K Gold Filled Round Carabiner Clasp,Carabiner Lock Connector,Spring Push Gate for DIY Jewelry Finding Necklace Bracelet",bracelet,0.8053077459335327,0.8053077459335327
+test6.jpeg,3,4445726329,"Valentine&#39;s day gift Hexagonal enamel finish, gold modern design, buckle bracelet Birthday Gift",bracelet,0.8049908876419067,0.8049908876419067
+test6.jpeg,4,694721245,Handmade 10K/14K Solid Gold Stacking Bangle Bracelet (1.50mm),bracelet,0.8029990196228027,0.8029990196228027
+test6.jpeg,5,4582187599,"chunky, glossy red resin or Lucite bangle bracelet with a smooth, polished finish",bracelet,0.7965066432952881,0.7965066432952881
+test6.jpeg,6,938207815,Vintage Marquise Decorative Gold Brass Chain Link Bracelet,bracelet,0.7834998965263367,0.7834998965263367
+test6.jpeg,7,4510422007,"Dapped Chain Bracelet: Gold Filled, Diamond Cut",bracelet,0.783246636390686,0.783246636390686
+test6.jpeg,8,1355326341,14k Gold Filled Wire Hoop Earrings: Lightweight Everyday Jewelry,earring,0.828360378742218,0.778360378742218
+test6.jpeg,9,1737979805,8 Pixel Side Firing Accent &quot;Ring&quot;,ring,0.8220498561859131,0.772049856185913
+test6.jpeg,10,4308360424,14k Pair of Threader Earring Wire Components with Open Ring to Add Charm,earring,0.811926007270813,0.7619260072708129
+test6.jpeg,11,4316769200,Thin Solid Sterling Silver Ring - 1mm Round Stacking Band - Sizes 1 to 14 - Dainty Polished Midi Knuckle .925 - Made & Shipped in the USA,ring,0.8023235201835632,0.7523235201835632
+test6.jpeg,12,181919377,"14kt Rose Gold Filled Necklace Extender w/ Spring Ring Clasp - 1&quot;, 2&quot;, 3&quot; & 4&quot; - Your Choice of Chain Extender - Custom Extension Chain",ring,0.8015033006668091,0.751503300666809
+test6.jpeg,13,1573066669,Stainless Steel Choker Necklace: Minimalist Silver Neck Cuff,necklace,0.7975886464118958,0.7475886464118957
+test6.jpeg,14,860334552,"14mm 24k Shiny Gold Closed Ring, Circle Connector, Gold Round Charms, Circle Connectors, Round Charms, Gold Plated Findings, AE292",ring,0.7957763671875,0.7457763671875
+test6.jpeg,15,1593461046,"14k Solid Gold Simple Hoops, 10mm, 13mm, 14k Real Gold, Mini Plain Huggies, Small White Gold Hoop Everyday Earrings, Tiny Waterproof Huggies",earring,0.7905466556549072,0.7405466556549072
+test6.jpeg,16,288698857,"gold ear climber with hammered texture, handcrafted ear crawler earrings, minimalist jewelry",earring,0.789212167263031,0.739212167263031
+test6.jpeg,17,4376706161,"Bible Verse Necklace, Cute Christian Jewelry For Women, Jesus Necklace, Christian Gift Christmas Necklace for Her Dainty Curved Bar Necklace",necklace,0.7873072028160095,0.7373072028160095
+test6.jpeg,18,1510796672,Braided Brass Torque Choker: Viking Tribal Necklace,necklace,0.7872545123100281,0.737254512310028
+test6.jpeg,19,4374560212,1 Piece Beer  Quartz Carved Polished Single Gemstone Ring| Hand Carved Ring Size,ring,0.7845619916915894,0.7345619916915893
+test6.jpeg,20,1723568643,"Silver Oval Charms, Boho Charms, Rustic Charms, Earring Charms, Silver Pendant, Necklace Parts, Antique Silver Plated 14x10mm G35608",pendant,0.7826147079467773,0.7326147079467773
+test8.jpeg,1,971657694,"heart huggies, opal huggie earrings, bridesmaid earring, gift for her, sterling silver, opal hoops, holiday, summer jewelry, mothers day",earring,0.793448269367218,0.793448269367218
+test8.jpeg,2,1750297922,Handmade Indian Jhumki Hoop Earrings: Ethnic Chandbali Jewelry,earring,0.79087895154953,0.79087895154953
+test8.jpeg,3,1718919882,DON-LIN Vintage 1990&#39;s Beige And Gold Modern Triangular Statement Clip Earrings,earring,0.7670280933380127,0.7670280933380127
+test8.jpeg,4,4445718997,Vintage Gold Tone Cut-Out Dangle Earrings,earring,0.7663349509239197,0.7663349509239197
+test8.jpeg,5,597417564,"Vintage 1940s Thai Dancing Girl Earrings, Enamel Filigree, Mid-Century Modern (Screw-Back), Thailand",earring,0.7655437588691711,0.7655437588691711
+test8.jpeg,6,1329811279,14K Gold Natural Diamond Pear Stud: Miligrain Tragus Helix Earring,earring,0.7632673978805542,0.7632673978805542
+test8.jpeg,7,4373784321,"Regency Earrings: Roman Gold Column, pink tourmalines or blue sapphire faceted Dangles - Historical Replica",earring,0.7596027255058289,0.7596027255058289
+test8.jpeg,8,1246764264,Neutral Tones and Gold Half Circle Earrings,earring,0.7562678456306458,0.7562678456306458
+test8.jpeg,9,4445719002,"Dainty Hamsa Dangle Earrings, Gold Filled or Rose Gold Filled CZ Studs, Jewish Protection Jewelry, Bat Mitzvah Gift",earring,0.7509840726852417,0.7509840726852417
+test8.jpeg,10,4422617859,"Vintage Inspired Stone Sunburst Earrings, Gold Earrings, Stone Earrings, Cottagecore Art Deco Boho Minimalist Jewelry, Gift for Her",earring,0.7480847835540771,0.7480847835540771
+test8.jpeg,11,4305302983,2.0 Carat Pear Cut Lab Created Diamond Earrings: Sterling Silver Platinum Overlay,earring,0.747305154800415,0.747305154800415
+test8.jpeg,12,4538484584,"Hammered Stackable Bangles Set, Mixed Metal Gold Silver Bracelet, Minimalist Everyday Jewelry",bracelet,0.7891868948936462,0.7391868948936462
+test8.jpeg,13,4348377952,"Pear Drop Sterling Silver Ring, Handmade Dangling Charms Ring, Christmas gift for her",ring,0.7773667573928833,0.7273667573928833
+test8.jpeg,14,1866827709,Handmade Sterling Silver Stacking Bangles - Set of 5 Designer Bracelets,bracelet,0.7623162269592285,0.7123162269592285
+test8.jpeg,15,1719047722,Vintage Van Dell Gold Filled GF On Sterling W/ Red Glass  Flower Link Panel Bracelet 6” Vermeil,bracelet,0.761420726776123,0.711420726776123
+test8.jpeg,16,4445581258,14k Fairy Figural Ring,ring,0.7523362636566162,0.7023362636566162
+test8.jpeg,17,1753630104,"Ammonite Stone pendant, new silver jewelry, Gemstone silver pendant, 925 Sterling silver pendant, Handmade jewelry, silver gift items,",pendant,0.7489274740219116,0.6989274740219116
+test8.jpeg,18,1786109399,Blue Opal Tree of Life Pendant: Copper Wire Wrapped Gemstone,pendant,0.7466440200805664,0.6966440200805664
+test8.jpeg,19,1719035950,10K Solid Yellow and White Gold Diamond Cut Cuban Curb Link Personalized ID Engravable Bracelet For Men and Women FREE ENGRAVING,bracelet,0.7461706399917603,0.6961706399917602
+test8.jpeg,20,4568509259,Moonstone Silver Cross Pendant with Sparkling CZ Details - Religious Gift for Her,pendant,0.7446849942207336,0.6946849942207336
